@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kayla Mylius\\source\\repos\\GradeBook\\GradeBook\\GradeBook.csproj",
+      "projectUniqueName": "C:\\Users\\Kayla Mylius\\source\\repos\\TheEvolutionofKay\\GradeBook\\GradeBook\\GradeBook.csproj",
       "projectName": "GradeBook",
-      "projectPath": "C:\\Users\\Kayla Mylius\\source\\repos\\GradeBook\\GradeBook\\GradeBook.csproj",
+      "projectPath": "C:\\Users\\Kayla Mylius\\source\\repos\\TheEvolutionofKay\\GradeBook\\GradeBook\\GradeBook.csproj",
       "packagesPath": "C:\\Users\\Kayla Mylius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kayla Mylius\\source\\repos\\GradeBook\\GradeBook\\obj\\",
+      "outputPath": "C:\\Users\\Kayla Mylius\\source\\repos\\TheEvolutionofKay\\GradeBook\\GradeBook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
