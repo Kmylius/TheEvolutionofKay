@@ -1,0 +1,11 @@
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.deps.json
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.json
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.dev.json
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.dll
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.pdb
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csprojAssemblyReference.cache
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfoInputs.cache
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfo.cs
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.dll
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.pdb
