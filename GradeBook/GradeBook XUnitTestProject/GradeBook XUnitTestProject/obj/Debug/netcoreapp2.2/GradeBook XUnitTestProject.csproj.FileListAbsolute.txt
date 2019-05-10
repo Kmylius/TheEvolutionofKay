@@ -1,0 +1,14 @@
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook XUnitTestProject\GradeBook XUnitTestProject\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook XUnitTestProject\GradeBook XUnitTestProject\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook XUnitTestProject\GradeBook XUnitTestProject\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook XUnitTestProject\GradeBook XUnitTestProject\bin\Debug\netcoreapp2.2\GradeBook XUnitTestProject.deps.json
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook XUnitTestProject\GradeBook XUnitTestProject\bin\Debug\netcoreapp2.2\GradeBook XUnitTestProject.runtimeconfig.json
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook XUnitTestProject\GradeBook XUnitTestProject\bin\Debug\netcoreapp2.2\GradeBook XUnitTestProject.runtimeconfig.dev.json
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook XUnitTestProject\GradeBook XUnitTestProject\bin\Debug\netcoreapp2.2\GradeBook XUnitTestProject.dll
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook XUnitTestProject\GradeBook XUnitTestProject\bin\Debug\netcoreapp2.2\GradeBook XUnitTestProject.pdb
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook XUnitTestProject\GradeBook XUnitTestProject\obj\Debug\netcoreapp2.2\GradeBook XUnitTestProject.csprojAssemblyReference.cache
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook XUnitTestProject\GradeBook XUnitTestProject\obj\Debug\netcoreapp2.2\GradeBook XUnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook XUnitTestProject\GradeBook XUnitTestProject\obj\Debug\netcoreapp2.2\GradeBook XUnitTestProject.AssemblyInfoInputs.cache
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook XUnitTestProject\GradeBook XUnitTestProject\obj\Debug\netcoreapp2.2\GradeBook XUnitTestProject.AssemblyInfo.cs
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook XUnitTestProject\GradeBook XUnitTestProject\obj\Debug\netcoreapp2.2\GradeBook XUnitTestProject.dll
+C:\Users\Kayla Mylius\source\repos\TheEvolutionofKay\GradeBook XUnitTestProject\GradeBook XUnitTestProject\obj\Debug\netcoreapp2.2\GradeBook XUnitTestProject.pdb
