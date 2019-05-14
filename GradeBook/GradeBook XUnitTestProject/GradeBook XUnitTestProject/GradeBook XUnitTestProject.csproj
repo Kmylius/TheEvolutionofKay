@@ -13,4 +13,14 @@
     <PackageReference Include="xunit.runner.visualstudio" Version="2.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\GradeBook\GradeBook.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="GradeBook">
+      <HintPath>..\..\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
