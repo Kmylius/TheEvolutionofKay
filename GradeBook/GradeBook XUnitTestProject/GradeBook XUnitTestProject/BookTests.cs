@@ -7,7 +7,7 @@ namespace GradeBook_XUnitTestProject
     public class BookTests
     {
         [Fact]
-        public void Test1()
+        public void BookCalculaesAverageGrade()
         {
             //arange
             var book = new Book("");
