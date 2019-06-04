@@ -98,6 +98,7 @@ namespace GradeBook
             private set;
         }
 
+        public const string category = "Science";
 
     }
 }
